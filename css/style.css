@@ -46,4 +46,26 @@ h2{
     margin-bottom: 60px;
 }
 
+.me{
+    display:flex;
+    justify-content: center;
+}
 
+.me-profile{
+    margin-left:30px;
+}
+
+p{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    font-size: 10px;
+    background-color: antiquewhite;
+    padding:15px;
+}
+
+header{
+    background-color:antiquewhite
+}
